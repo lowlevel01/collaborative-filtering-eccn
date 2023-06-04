@@ -1,7 +1,4 @@
 import pandas as pd
-
-
-
 from sklearn.metrics.pairwise import cosine_similarity
 
 def colfil(user_id, ratings, n):
